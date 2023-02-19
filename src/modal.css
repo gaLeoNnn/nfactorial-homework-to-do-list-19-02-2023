@@ -1,0 +1,42 @@
+
+.modalDiv {
+  position: relative;
+}
+.modal {
+  width: 268px;
+    height: 234px;
+    background: #E4E6E7;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+      border-radius: 12px;
+      position: absolute;
+      left: -300px;
+      top: -180px;
+      display: flex;
+      flex-direction: column;
+     
+
+}
+.modal__input {
+  border: none;
+ align-self: center;
+  width: 236px;
+    height: 120px;
+    background: #FFFFFF;
+
+      border-radius: 8px;
+}
+
+.modal__button {
+  margin-left: 16px;
+  margin-top: 7px;
+  border-radius: 20px;
+  width: 76px;
+  border: none;
+    height: 40px;
+    background: linear-gradient(0deg, #081E34, #081E34), #F0F0F0;
+    padding: 8px 24px;
+    color: white;
+    font-weight: 700;
+      font-size: 14px;
+      line-height: 18px;
+}

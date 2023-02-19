@@ -1,0 +1,13 @@
+.footer {
+/* border: 1px solid #000; */
+display: flex;
+justify-content: space-between;
+  margin-bottom: 42px;
+}
+a {
+  /* border: 1px solid #000; */
+  margin-left: 0;
+  opacity: 0.5;
+  color: #081E34;
+  font-weight: 500;
+}
